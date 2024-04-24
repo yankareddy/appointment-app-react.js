@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.main-container {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.appointment-card {
+  background-color: #ffffff;
+  height: 80vh;
+  width: 95%;
+  background-size: cover;
+  border-radius: 20px;
+  padding: 20px;
+}
+.appointment-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
+  margin-right: 100px;
+}
+.form-header {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.label {
+  color: #b5b7c4;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+.input {
+  width: 250px;
+  height: 30px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.button {
+  background-color: #8b5cf6;
+  color: #ffffff;
+  width: 60px;
+  height: 30px;
+  border-width: 0px;
+  border-radius: 10px;
+}
+.appointments-img {
+  margin-left: 100px;
+  height:;
+}
+.line{
+  color: #b5b7c4;
+  width: 1000px;
+}
